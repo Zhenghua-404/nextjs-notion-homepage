@@ -19,7 +19,7 @@ export default siteConfig({
   // social usernames (optional)
   // twitter: 'transitive_bs',
   github: 'Zhenghua-404',
-  linkedin: 'fisch2',
+  linkedin: 'mavis-zhenghua-chen94',
   // mastodon: '#', // optional mastodon profile URL, provides link verification
   // newsletter: '#', // optional newsletter URL
   // youtube: '#', // optional youtube channel name or `channel/UCGbXXXXXXXXXXXXXXXXXXXXXX`
